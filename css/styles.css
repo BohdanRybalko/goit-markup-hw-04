@@ -113,7 +113,8 @@ li{
             list-style: none;
             display: flex;
             gap: 40px;
-
+            position: relative;
+            color: #404bbf;
             
            
 }
