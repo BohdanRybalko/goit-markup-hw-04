@@ -172,6 +172,11 @@ li{
 .section-one{
     background-color: var(--brand-color);
     padding: 188px 0;
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/img-name.jpeg);
+    max-width: 1440px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 .section-h-hiden{
     padding: 120px 0;
@@ -216,6 +221,9 @@ li{
     margin: 0 auto;
     cursor: pointer;
     margin-top: 48px;
+    transition:background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    
+    
 
     
 }
