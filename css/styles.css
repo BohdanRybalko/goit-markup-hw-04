@@ -113,8 +113,7 @@ li{
             list-style: none;
             display: flex;
             gap: 40px;
-            position: relative;
-            color: #404bbf;
+           
             
            
 }
@@ -128,6 +127,9 @@ li{
         color: var(--brand-color);
         padding: 24px 0;
         display: block;
+        position: relative;
+        color: #404bbf;
+        
 
     }
     .header-ads:hover{color: var(--section-hover-focus);
