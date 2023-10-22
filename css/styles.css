@@ -76,6 +76,8 @@ li{
 .header-nav{
     display: flex;
     align-items: center;
+    position: relative;
+     color: #404bbf;
     
 }
 .header-logo{ 
@@ -90,9 +92,7 @@ li{
     margin-right: 76px ;
     display: inline-block;
     text-align: center;
-    position: relative;
-    color: #404bbf;
-    
+   
 }
 .header-address{
     font-style: normal;
