@@ -7,7 +7,7 @@ img{
     display: block;
 }
 
-.current::after{
+.header-ads::after{
     content: '';
     position: absolute;
     left: 0;
