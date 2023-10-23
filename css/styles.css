@@ -192,10 +192,11 @@ li{
     padding: 120px 0;
    
 }
-svg{
+.section-svg{
     width:64px;
     height:64px;
 }
+
 .visually-hidden {
     position: absolute;
     width: 1px;
