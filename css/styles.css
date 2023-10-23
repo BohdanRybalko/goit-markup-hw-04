@@ -180,6 +180,17 @@ li{
 }
 .section-h-hiden{
     padding: 120px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 112px;
+    background-color: #f4f4fd;
+    border-radius: 4px;
+    margin-bottom: 8px;
+}
+svg{
+    width:64px;
+    height:64px;
 }
 .visually-hidden {
     position: absolute;
