@@ -412,7 +412,11 @@ transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1),
  .footer-div{
     display: flex;
     align-items: baseline;
+   
+ }
+ .footer-div-two{
     margin-right: 120px;
+
  }
  .footer-ul{
     display: flex;
@@ -430,6 +434,7 @@ transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1),
     display: flex;
     align-items: center;
     justify-content: center;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
  }
  .footer-a:hover{
